@@ -1,0 +1,12 @@
+What's your name?
+Nguyen Ngoc Tan
+
+
+When is your birthday?
+30/11/1991
+
+
+What do you do?
+Programmer
+
+
