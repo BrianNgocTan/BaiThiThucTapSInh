@@ -18,7 +18,7 @@ func main() {
 	}
 
 	f := func(r rune) bool {
-		return unicode.IsSpace(r)
+		return !unicode.IsLetter(r) && r != '\n'
 	}
 
 	scanner := bufio.NewScanner(file)
